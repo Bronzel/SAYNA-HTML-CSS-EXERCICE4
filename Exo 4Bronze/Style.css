@@ -1,0 +1,108 @@
+#body{
+    padding: 0px;
+    margin: 0px
+}
+#Container{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#Bg{
+    background: url(Illustration/img1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#Font{
+    font-family: spider;
+}
+@font-face{
+    font-family: spider;
+    src: url(Far-From\ Homecoming\ Updated.otf);
+}
+
+#SP{
+    margin-left: -70px;
+    font-size: 70px;
+    padding-top: 20px;
+    font-family: spider;
+    color: #ffffff;
+}
+
+#b{
+    height: 40px;
+    margin-left: -70px;
+    padding-top: 90px;  
+}
+#SP1{
+    margin-left: 109px;
+   color: #ffffff;
+   font-family: spider;
+   padding-top: 50px; 
+}
+#P{
+    margin-left: 109px;
+    padding-top: 10px;  
+    color: #ffffff;
+}
+#h1{
+    font-family: spider;
+  color: #ffffff;
+}
+#btn{
+   
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+#div{
+    background-color: #144C92;
+}
+#pwd{
+    margin-left: 100px;
+    height: 20px; width: 300px; ;
+    border-radius: 40px
+}
+#M{
+    background-color: #B11313;
+}
+#I{
+    transform: scaleX(-1);
+    margin-left: 15%;
+}
+#Se{
+    background-color: #B11313;
+}
+#PP{
+    color: #ffffff;
+
+}
+#pd{
+    background-color: #B11313;
+    margin-left: 20%;
+    height: 40px; width: 300px; ;
+    border-radius: 40px
+}
+#contaite{
+       background: url(Illustration/img35.png);
+       background-size: contain;
+       padding:550px;
+       padding-bottom: 50px;
+       margin-left: -100px;
+       margin-right: -100px;
+       width: -1000px;
+       background-repeat: no-repeat;    
+}
+select{
+    font-size: 100px;
+    text-shadow: #ffffff;
+}
+#SV{
+    background: url(Illustration/img7.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 11%;
+}
+#h5{
+    color: #000000;
+    font-style: var(#000000);
+}
+#O{
+    color: #000000;
+}
